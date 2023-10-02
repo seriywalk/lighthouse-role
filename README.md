@@ -8,9 +8,8 @@ Role Variables
 
 | vars | description |
 |-------|---------------|
-| lighthouse_distrib: | repo of lighthouse |
+| lighthouse_distrib | repo of lighthouse |
 | nginx_conf | congif of nginx |
-|-------|---------------|
 
 Example Playbook
 ----------------
